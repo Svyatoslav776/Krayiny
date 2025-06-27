@@ -1,0 +1,23 @@
+header{
+text-align: center;
+
+}
+table{
+margin: auto;
+}
+th{
+
+color: blue;
+}
+td{
+border: 2px solid black;
+background-color: rgba(0, 86, 166, 0.308);
+}
+footer{
+height: 23px;
+color: blue;
+text-align: center;
+}
+h2{
+    color:rgb(4, 144, 97);
+}
